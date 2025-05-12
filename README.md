@@ -13,28 +13,21 @@
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge" alt="Zustand" />
   </div>
-  <h3 align="center">Build a Beautiful, Modern Landing Page for Your AI SaaS</h3>
-  <div align="center">
-    Follow along with our detailed tutorial on 
-    <a href="https://youtu.be/qeCBBxZoqAM" target="_blank"><b>YouTube</b></a>
-  </div>
+  <h3 align="center">Build a Beautiful, react-landing-page-responsive</h3>
+  
   <br />
 </div>
 
 ## 📋 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
-5. [Code Snippets](#code-snippets)
-6. [Assets & More](#assets--more)
 
-## 🚀 Introduction
+1. [Tech Stack](#tech-stack)
+2. [Features](#features)
+3. [Quick Start](#quick-start)
+4. [Code Snippets](#code-snippets)
+5. [Assets & More](#assets--more)
 
-In this video tutorial, you'll learn how to build a beautiful, modern landing page tailored for your AI SaaS company. This project uses React, Vite, Tailwind CSS, and Zustand to deliver a sleek, responsive website designed to showcase your product and convert visitors into customers.
 
-Watch the full tutorial on [YouTube](https://youtu.be/qeCBBxZoqAM).
 
 ## ⚙️ Tech Stack
 
@@ -72,7 +65,8 @@ Watch the full tutorial on [YouTube](https://youtu.be/qeCBBxZoqAM).
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-saas-landing-page.git
+
+git clone https://github.com/rtinn/react-landing-page-responsive.git
 cd ai-saas-landing-page
 ```
 
@@ -88,7 +82,7 @@ npm install
 npm run dev
 ```
 
-Your site will be running at [http://localhost:3000](http://localhost:3000).
+Your site will be running at [http://localhost:5173](http://localhost:5173).
 
 ## 💻 Code Snippets
 
